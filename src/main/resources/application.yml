@@ -1,0 +1,6 @@
+server:
+  port: 1121
+
+spring:
+  application:
+    name: sendsms-demo
